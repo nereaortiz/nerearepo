@@ -81,9 +81,9 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'django-vue-template',
-        'USER': 'django-vue-template',
-        'PASSWORD': 'django-vue-template',
+        'NAME': 'nerearepo',
+        'USER': 'nerearepo',
+        'PASSWORD': 'nerearepo',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
